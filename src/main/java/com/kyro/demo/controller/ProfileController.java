@@ -9,6 +9,7 @@ import org.springframework.http.HttpStatus;
 
 import java.util.Optional;
 
+@CrossOrigin
 @RestController
 @RequestMapping("/api")
 public class ProfileController {
