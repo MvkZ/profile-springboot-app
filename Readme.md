@@ -59,7 +59,9 @@ mvn spring-boot:run
 
 - Creating a Profile
 
-![Post](https://github.com/MvkZ/profile-springboot-app/raw/develop/post-api.png)
+<p>
+    <img src="post-api.png" width="320" height="240" />
+</p>
 
 - Update a Profile
 
