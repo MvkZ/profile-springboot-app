@@ -59,9 +59,7 @@ mvn spring-boot:run
 
 - Creating a Profile
 
-<p>
-    <img src="post-api.png" width="320" height="240" />
-</p>
+![POST](post-api.png)
 
 - Update a Profile
 
