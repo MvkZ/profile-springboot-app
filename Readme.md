@@ -59,7 +59,7 @@ mvn spring-boot:run
 
 - Creating a Profile
 
-![Post](post-api.png)
+![POST](post-api.png)
 
 - Update a Profile
 
