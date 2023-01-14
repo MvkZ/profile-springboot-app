@@ -50,22 +50,24 @@ mvn spring-boot:run
 4. Now you can use Postman with the following API to test.
 
 > Creating a Profile - POST => http://localhost:8080/api/profiles
+
 > View a Profile - GET => http://localhost:8080/api/profile/{id}
+
 > Update a Profile - PUT => http://localhost:8080/api/profile/{id}
 
 ### Screenshots
 
 - Creating a Profile
 
-![](post-api.png)
+![Post](post-api.png)
 
 - Update a Profile
 
-![](put-api.png)
+![PUT](put-api.png)
 
 - View a Profile
 
-![](get-api.png)
+![GET](get-api.png)
 
 ### TODO
 
