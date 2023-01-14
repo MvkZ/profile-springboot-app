@@ -49,7 +49,7 @@ mvn spring-boot:run
 
 4. Now you can use Postman with the following API to test.
 
-> Creating a Profile - POST => http://localhost:8080/api/profiles
+> Creating a Profile - POST => http://localhost:8080/api/profile
 
 > View a Profile - GET => http://localhost:8080/api/profile/{id}
 
